@@ -5,7 +5,7 @@ With [Iteration 0](https://medium.com/commonsstack/celebrating-progress-one-year
 
 We have divided all the work into [Milestones](https://github.com/commons-stack/iteration0/milestones?direction=asc&sort=title&state=open) which we will continue to update during this period. 
 
-**You can support our mission** first and foremost by **donating** on the [Giveth DApp](https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e/donate), or by sending funds directly to commonsstack.eth (0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A). You can also **contribute time** to the Commons Stack mission, find out more about this by [joining our community.](http://commonsstack.org/community)
+**You can support our mission** first and foremost by **[donating](http://commonsstack.org/donate)**. You can also **contribute time** to the Commons Stack mission, find out more about this by [joining our community.](http://commonsstack.org/community)
 
 Know that with these extra funds you will not only be supporting us as a core team, but a wide network of contributors, and every DAI contributed is spent transparently on the [Giveth DApp](https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e).
 
